@@ -30,13 +30,13 @@ li::marker{
 }
 
 img{
-    width: 440px;
+    width: 400px;
     border-radius: 17px;
 }
 
 main{
     background-color: white;
-    width: 440px;
+    width: 18vw;
     margin: auto;
     padding: 21px;
     border-radius: 17px;
